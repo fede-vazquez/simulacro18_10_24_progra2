@@ -1,0 +1,4 @@
+C:\Users\fvazquez\Desktop\repos\Simulacro_parcial_18_10_24\Simulacro_parcial_18_10_24\obj\Debug\net6.0\Simulacro_parcial_18_10_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\Simulacro_parcial_18_10_24\Simulacro_parcial_18_10_24\obj\Debug\net6.0\Simulacro_parcial_18_10_24.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\Simulacro_parcial_18_10_24\Simulacro_parcial_18_10_24\obj\Debug\net6.0\Simulacro_parcial_18_10_24.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\Simulacro_parcial_18_10_24\Simulacro_parcial_18_10_24\obj\Debug\net6.0\Simulacro_parcial_18_10_24.csproj.CoreCompileInputs.cache
